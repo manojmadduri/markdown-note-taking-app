@@ -14,4 +14,3 @@ const NoteList = ({ notes, selectNote, deleteNote }) => {
 };
 
 export default NoteList;
-
