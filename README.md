@@ -1,3 +1,25 @@
+You can use the app here [Markdown Note taking app](https://markdown-note-taking-app.vercel.app/)
+
+Project: Markdown Note-Taking Application
+
+Description:
+A web application that allows users to take notes using Markdown. The application provides a live preview of the formatted Markdown text, supports saving notes locally, and exporting them as Markdown files. It is useful for developers, students, and anyone who prefers Markdown for formatting their notes.
+Features:
+
+  - Create, edit, and delete notes
+  - Live Markdown preview
+  - Save notes locally in the browser using localStorage
+  - Export notes as Markdown files
+  - Simple and intuitive user interface
+
+Tech Stack:
+
+  - Frontend: React.js, Tailwind CSS
+  - Backend: None (uses localStorage for data persistence)
+  - Deployment: Vercel for easy deployment
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
